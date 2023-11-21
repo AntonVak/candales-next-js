@@ -5,7 +5,7 @@ import { useEffect } from 'react';
 const Shop = () => {
   
   useEffect (() => {
-    console.log('Component mounted');
+    console.log('Component mountesaaaadadadd');
     // Ваши другие действия
   }, []);
 
